@@ -4,7 +4,7 @@
 
 // undefined, null,0
 function sum(a, b) {
-  return a + b;
+  return a - b;
 }
 
 describe('sum function unit test', () => {
